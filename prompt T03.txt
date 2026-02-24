@@ -1,0 +1,17 @@
+hallo gpt
+coding c lagi
+nah ada soal nih Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+
+kira kira untuk program ini ide ide apa aja ya yg saling nyambung nnti klo udh di input outputt 
+kamu minta apa nih keterangannya dari aku?
+
+gas full codingan untuk program ini
+
+ehh btw gaada di setrika langsung kayak kami tuh udh ada laundry bag yang udh ada maksimal muatannya berapa kg, terus gausa di setrika 
+
+ohh gini aja di codingannya itu nampilih jenis pakaian entah celana sprei kaos kaki jaket trus berapa jumlahnya, yang luntur berapa dan apa saja terus keterangan, terus catatan untuk pihak laundrynya mana tau ada yang di request gtuu
+
+pilih menu itu contohnya minta inputan apa
+
+contohnya apa klo diminta input menu
+tambahin dong di programnya minta dia di asrama mana

@@ -1,0 +1,20 @@
+hallo gpt apakah boleh bantu aku untuk soal selanjutnya? sekaligus aku pahami
+liat soalnya 
+Deskripsi Masalah
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+Tugas Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+
+
+
+nah itu kan ada tuh yang 1,2,3nya nah untuk kode kelompoknya itu apa yang kita dapatkan dari gambar itu, entah polanya atau kenapa gambar kertasnya bertumpuk sepeerti yg ada pada gambar dan untuk mengerjakan soal ini diperlukan array index gtu 
+
+itu udh full text dan gmbar dan untuk kode kelompoknya itu apa yg kita lihat dari gambar misal polanya dsb
+oke sekarang diminta buat code bahasa c soal itu bisa pake array index
+
+kalo code dia kayak pola deret gtu gimana ? yang diminta 1. Jumlah total data (N). 
+2. Deret nilai (n1, n2, …, n). 
+3. Kode kelompok siswa
